@@ -2,7 +2,7 @@
 <extension key="au.org.asylumseekerscentre.moveactivitytoanycase" type="module">
   <file>moveactivitytoanycase</file>
   <name>Move Activity to any Case</name>
-  <description>By default, the search dialog provided when moving and Activity to a Case does not allow you to choose Closed cases or those with end dates. This extension enables filing Activities on any Case. Filtering on Case Status is then possible using the "refine search" dropdown. Thanks to [DaveD](https://lab.civicrm.org/DaveD) for finding this solution!</description>
+  <description>By default, the search dialog provided when moving an Activity to a Case does not allow you to choose Closed cases or those with end dates. This extension enables filing Activities on any Case. Filtering on Case Status is then possible using the "refine search" dropdown. Thanks to [DaveD](https://lab.civicrm.org/DaveD) for finding this solution!</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Jude Hungerford</author>
